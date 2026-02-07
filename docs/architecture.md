@@ -16,3 +16,12 @@
 ## Data flow
 ![Telegram Sequence Diagram](../docs/diagrams/out/telegram/sequence-diagram/Sequence%20Diagram.svg)
 ![Telegram Sequence Diagram Code](../docs/diagrams/src/telegram/sequence-diagram.puml)
+This section skipped due to lack of time.
+
+## Deployment
+![Telegram Sequence Diagram](../docs/diagrams/out/telegram/deployment-diagram/Deployment%20Diagram.svg)
+![Telegram Sequence Diagram Code](../docs/diagrams/src/telegram/deployment-diagram.puml)
+This section skipped due to lack of time.
+
+## Open questions
+This section skipped due to lack of time.
