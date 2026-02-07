@@ -1,0 +1,66 @@
+## Components and roles
+- **Mobile app**:
+  - Team leader
+  - Mobile engineer (IOS)
+  - Mobile engineer (Android)
+  - Front-end developer
+  - Mobile app designer
+- **Desktop app**:
+  - Team leader
+  - Engineer (Some language specified)
+  - Front-end developer
+  - Desktop app designer
+- **Web client**:
+  - Team leader
+  - Web engineer
+  - Front-end developer
+  - Web designer
+- **Message handling service**
+  - Backend developer
+  - Database manager
+- **Auth & Session service**
+  - Cybersecurity manager
+
+## Roles and responsibilities
+- Cybersecurity Manager
+  - Design and enforce security policies
+  - Manage risk and incident response
+  - Ensure compliance with regulations
+  - Lead security team and training
+- Database Manager (DBA)
+  - Maintain and optimize database systems
+  - Ensure performance and availability
+  - Handle backup, recovery, and security
+  - Manage data integrity and access
+- Mobile Engineer
+  - Develop and maintain mobile apps (iOS/Android)
+  - Implement UI/UX designs
+  - Optimize app performance
+  - Test and debug applications
+- Team Leader
+  - Coordinate tasks and project timelines
+  - Mentor and support team members
+  - Facilitate team/stakeholder communication
+  - Improve development processes
+- Front-End Developer
+  - Build responsive UIs with HTML/CSS/JS
+  - Use frameworks (React, Vue, Angular)
+  - Ensure cross-browser compatibility
+  - Optimize performance and UX
+
+## Common skills across roles
+- Cybersecurity Manager
+  - **Technical:** Network security, risk assessment, incident response, compliance frameworks
+  - **Soft Skills:** Leadership, strategic planning, communication, crisis management
+- Database Manager
+  - **Technical:** SQL, performance tuning, backup/recovery, database security
+  - **Soft Skills:** Problem-solving, attention to detail, planning, communication
+- Mobile Engineer
+  - **Technical:** Swift/Kotlin or cross-platform (Flutter/React Native), UI implementation, debugging, APIs
+  - **Soft Skills:** Creativity, adaptability, problem-solving, collaboration
+- Team Leader
+  - **Technical:** Project management, Agile/Scrum, technical oversight
+  - **Soft Skills:** Mentoring, communication, conflict resolution, decision-making
+- Front-End Developer
+  - **Technical:** HTML/CSS/JavaScript, React/Vue/Angular, responsive design, debugging
+  - **Soft Skills:** Attention to detail, collaboration, creativity, adaptability
